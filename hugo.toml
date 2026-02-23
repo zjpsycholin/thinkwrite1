@@ -1,0 +1,117 @@
+baseURL = "https://zjpsycholin.github.io/thinkwrite1/"
+languageCode = "en-us"
+title = "Critical Thinking & English Writing I"
+copyright = "Zhang Jun"
+
+[params]
+  mode    = "auto"     # light/dark/auto
+  subtitle = "Welcome to Critical Thinking & English Writing I"
+  mathjax = false
+  katex   = false
+  useCDN  = false
+
+  customCSS = ["css/custom.css"]
+
+
+# Top nav
+[[menu.main]]
+  name = "Home"
+  url  = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Syllabus"
+  url  = "/syllabus/"
+  weight = 2
+
+[[menu.main]]
+  name = "Intro Description"
+  url  = "/introdescription/"
+  weight = 3
+
+[[menu.main]]
+  name = "Show, Don't Tell"
+  url  = "/shownottell/"
+  weight = 4
+
+[[menu.main]]
+  name = "Sensory Imagery & Precision"
+  url  = "/sensoryimagery/"
+  weight = 5
+
+[[menu.main]]
+  name = "Person Description"
+  url  = "/persondescription/"
+  weight = 6
+
+[[menu.main]]
+  name = "Place Description"
+  url  = "/placedescription/"
+  weight = 7
+
+
+[[menu.main]]
+  name = "Organization & Coherence"
+  url  = "/organizationcoherence/"
+  weight = 8
+
+[[menu.main]]
+  name = "Revision & Submission"
+  url  = "/revisionsubmission/"
+  weight = 9
+
+[[menu.main]]
+  name = "Introduction to Narration"
+  url  = "/intronarration/"
+  weight = 10
+
+[[menu.main]]
+  name = "Story Elements"
+  url  = "/storyelements/"
+  weight = 11
+
+[[menu.main]]
+  name = "Plot Structure"
+  url  = "/plot/"
+  weight = 12
+
+[[menu.main]]
+  name = "Point of View & Voice"
+  url  = "/pov/"
+  weight = 13
+
+[[menu.main]]
+  name = "Scene vs Summary"
+  url  = "/scene/"
+  weight = 14
+
+[[menu.main]]
+  name = "Dialogue & Character"
+  url  = "/dialogue/"
+  weight = 15
+
+[[menu.main]]
+  name = "Tension & Emotional Impact"
+  url  = "/tension/"
+  weight = 16
+
+[[menu.main]]
+  name = "Personal Narrative vs Fiction"
+  url  = "/personalnarrativefiction/"
+  weight = 17
+
+
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/athul/archie"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+# You can also silence the log if you like:
+ignoreLogs = ['warning-goldmark-raw-html']
+
+
