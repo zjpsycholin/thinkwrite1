@@ -1,16 +1,14 @@
 +++
 date = '2025-09-05T13:57:03+08:00'
 draft = false
-title = "Show, Don't Tell"
+title = "Week 2: Show, Don't Tell"
 weight = 4
 +++
 
 
-# Week 2 Learning Notes: Show, Don't Tell
+# Week 2: Show, Don't Tell
 
-These notes are designed to help you prepare before class and review after class. Use them to check your understanding of key concepts.
 
----
 
 ## Learning Outcomes
 
@@ -214,7 +212,7 @@ Now with body language showing his feelings:
 
 > He sat across from her at the café, leaning forward, elbows on the table. When she spoke, he nodded, his eyes never leaving her face. His coffee grew cold, untouched.
 
-What do we understand about his feelings? (Interest, attraction, attention)
+What do we understand about his feelings? 
 
 ---
 
@@ -246,7 +244,7 @@ What does this action reveal?
 
 > The phone rang. He stared at it, watching the screen light up with her name. He didn't move. After the sixth ring, it stopped. He picked up the phone, looked at the missed call, and set it back down without calling back.
 
-What do we understand? (Conflict, avoidance, possibly a broken relationship)
+What do we understand? 
 
 ---
 
@@ -270,7 +268,7 @@ Imagine your writing is a camera. To show instead of tell, you can:
 **Telling:** She was nervous about the interview.
 
 **Camera lens showing:**
-> She smoothed her skirt for the fifth time. At the door, she paused, took a breath, and reached for the handle. Her palm was damp. She wiped it on her jacket before knocking.
+> She ...
 {{< /expand >}}
 
 ---
@@ -371,28 +369,6 @@ Whenever you use these, ask: **"What does this LOOK like?"**
 
 ---
 
-## Homework Reminder
-
-**Part A: Rewrite Your Week 1 Paragraph**
-
-Take the descriptive paragraph you wrote for Week 1 (the place from memory). Revise it with a focus on "Show, Don't Tell."
-
-**Check for:**
-- Any abstract statements about feelings (remove them)
-- Places where you can replace "telling" with concrete action
-- Opportunities to show emotion through body language or dialogue
-- Moments where you can zoom in on specific details
-
-**Part B: Reflection (3-5 sentences)**
-
-Answer these questions:
-1. What "telling" words or phrases did you remove from your Week 1 paragraph?
-2. What did you add to show instead?
-3. How did the revision change the paragraph?
-
-**Submission:** Bring both your original Week 1 paragraph and your revised version to next class.
-
----
 
 ## Quick Self-Test
 

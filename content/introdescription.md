@@ -6,7 +6,7 @@ date: '2026-02-22T13:56:39+08:00'
 ---
 
 
-# Week 1 Learning Notes: Introduction to Description
+# Week 1: Introduction to Description
 
 These notes are designed to help you prepare before class and review after class. Use them to check your understanding of key concepts.
 
@@ -161,12 +161,12 @@ From *Pilgrim at Tinker Creek*:
 
 Try transforming these abstract sentences into concrete descriptions.
 
-| Abstract Sentence |
-|-------------------|
-| The room was messy. |
-| She was exhausted. |
-| The city was crowded. |
-| He felt lonely. |
+| Abstract Sentence |    |
+|-------------------|  -------|
+| The room was messy. | *The room is very dirty.* Socks peeked out from the unfolded quilt and unwashed clothes were everywhere on the floor.     |
+| She was exhausted. |  Her eyelids drooped heavily and she rested her chin in her palm, struggling to hold her head up. Staring at the screen blankly without really seeing it, she spoke slowly and feebly.   /  After a whole day work, she went home with heavy footsteps, throwing her bag on the floor casually, lying herself in the sofa immediately, even though she was sitll wearing her highheels.|
+| The city was crowded. | Pestrians jostled shoulder to shoulder and cars honked but can not move any inch.  / The cars were trapped in heavy traffic, crawling slowly down the busy street. /  |
+| He felt lonely. |     |  
 
 ---
 
@@ -179,16 +179,15 @@ Read each passage and identify the dominant impression.
 
 What is the dominant impression? Write your answer here:
 
-_________________
+
 
 **Passage B:**
 > "Children darted between tables, laughing. Grandparents waved from their seats as steaming dishes arrived. The air shimmered with the smell of garlic and sizzling oil. Glasses clinked in toasts. 'Eat more!' someone called. 'You're too thin!'"
 
 What is the dominant impression? Write your answer here:
 
-_________________
-
 ---
+
 
 ### Exercise 3: Sensory Inventory
 
@@ -202,12 +201,6 @@ Think of a place you know well. Complete this inventory:
 | **Touch** | |
 | **Taste** | |
 
-**Example: A Grandmother's Kitchen**
-- **Sight:** Flour-dusted hands, scallions growing in tin cans, steam fogging the window
-- **Sound:** Beijing opera on the radio, humming, the creak of a wooden stool
-- **Smell:** Soy sauce, sesame oil, something sweet simmering
-- **Touch:** Warm air, flour on the counter, the smooth wood of the rolling pin
-- **Taste:** A stolen taste of broth—salty, rich, warming
 
 ---
 
@@ -224,30 +217,7 @@ Think of a place you know well. Complete this inventory:
 
 ---
 
-## Homework Reminder
 
-**Task:** Write a one-paragraph description of a place from memory.
-
-**Requirements:**
-- Length: 8-12 sentences
-- One clear dominant impression
-- At least three different senses
-- Concrete language only—no abstract statements about feelings
-- Do NOT state the impression directly
-
-**Options:**
-- Your childhood home
-- A grandparent's house
-- A favorite market or street
-- A temple or park
-- Your current dorm room
-
-**Structure Suggestion:**
-- Sentence 1-2: Establish the place (where, when)
-- Sentence 3-9: Concrete, sensory details (show the impression)
-- Sentence 10-12: Closing that reinforces the impression
-
----
 
 ## Quick Self-Test
 

@@ -122,10 +122,10 @@ By the end of the course, students can:
 | Component | Weight | Description |
 |------------|--------|-------------|
 | Attendance & Participation | 10% | Active engagement in discussion, workshops, peer review |
-| Descriptive Essay | 20% | 400–600 words; organized, vivid, coherent |
-| Narrative Essay | 25% | 500–700 words; structured, meaningful, developed |
-| Portfolio Revision | 15% | Revised versions of both major essays |
-| Final Exam | 30% | Timed independent writing |
+| Descriptive Essay | 10% |  organized, vivid, coherent |
+| Narrative Essay | 10% |  structured, meaningful, developed |
+| Writing practice | 20% | Writing practice throughout the course |
+| Final Exam | 50% | Timed independent writing |
 
 ### Grading Criteria
 
@@ -135,7 +135,7 @@ Major writing assignments are evaluated based on:
 - **Organization** (structure, coherence, transitions)  
 - **Language Precision** (word choice, sentence variety)  
 - **Grammar & Mechanics**  
-- **Revision Quality** (for portfolio submission)  
+- **Revision Quality**   
 
 ---
 
@@ -217,22 +217,7 @@ Students may write:
 - A personal experience  
 - A fictional short story  
 
----
 
-### 3️⃣ Portfolio Revision
-
-Students submit:
-
-- Revised Descriptive Essay  
-- Revised Narrative Essay  
-
-Revision must demonstrate:
-- Improved clarity  
-- Stronger organization  
-- More precise language  
-- Correction of grammatical issues  
-
-A short reflection (150–200 words) explaining revision choices is required.
 
 ---
 
