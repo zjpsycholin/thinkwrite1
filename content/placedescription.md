@@ -155,7 +155,7 @@ From Alfred Kazin's *A Walker in the City*, describing his childhood kitchen:
 {{< /expand >}}
 
 ---
-
+<!--
 ### 6. Connecting Place to Person (Essay 1 Bridge)
 
 Since you are in the middle of drafting Essay 1 (person description), this is an ideal moment to connect place to person.
@@ -226,8 +226,10 @@ Write about a time you entered a new place where you weren't comfortable or wher
 - What did you learn about how place connects to emotion?
 
 ---
+-->
 
-### Exercise 3: Model Place Analysis
+
+### Exercise: Model Place Analysis
 
 Read each passage and answer the questions.
 
@@ -293,19 +295,342 @@ _________________________________
 
 ---
 
-### Exercise 5: Place Planning for Essay 1 Revision
 
-**Instructions:** If you want to add a place description to your Essay 1, use this chart to plan.
 
-| Element | Your Notes |
-|------------------|------------|
-| Place connected to my person | |
-| Dominant impression of this place | |
-| Sight details (2-3) | |
-| Sound details (1-2) | |
-| Smell details (1-2) | |
-| Touch details (1-2) | |
-| How this place reveals something about the person | |
+
+
+## Practice Sequence: Describing a Scene from *Raise the Red Lantern*
+
+The following activities will help you build your skills in **place description** step by step. Using the image below, you will move from **careful observation** to **spatial organization**, **sensory detail**, **atmosphere**, **dominant impression**, and finally a **full descriptive paragraph**.
+
+These practices are designed to help you:
+- observe a setting closely before interpreting it
+- organize details clearly in space
+- use sensory language to create atmosphere
+- select details that support one dominant impression
+- show rather than tell
+- draft a unified paragraph of place description
+
+---
+
+### Practice 1: First Look — Observing Without Interpreting
+
+<figure style="text-align: center;">
+  <img src="/thinkwrite1/images/RRL.png" alt="Scene from Raise the Red Lantern" width="800">
+  <figcaption>Scene from <em>Raise the Red Lantern</em></figcaption>
+</figure>
+
+
+
+**Goal:**  
+To notice concrete visual details before moving to meaning or emotion.
+
+**Instructions:**  
+Look at the image silently for one minute. Then list at least **12 things you can actually see**. Do not explain what they mean. Do not write about feelings yet.
+
+**Rule:**  
+Write only **words or short phrases**, not full sentences.
+
+**You may notice:**
+- furniture
+- decorations
+- colors
+- light sources
+- empty space
+- the position of the person
+- shapes and lines
+- wall objects
+- the arrangement of objects
+
+{{< expand "Reminder" >}}
+Do not move too quickly to abstract interpretations such as *lonely*, *sad*, or *oppressive*. Slow down and gather raw descriptive material first.
+{{< /expand >}}
+
+
+
+
+
+
+---
+
+### Practice 2: Mapping the Room
+
+**Goal:**  
+To understand the layout of the place and begin using spatial organization clearly.
+
+**Instructions:**  
+Draw a simple map of the room based on the image. Label:
+- foreground
+- background
+- left side
+- right side
+- center
+- near / far
+
+Then write **6–8 location sentence segments** describing where things are.
+
+**Sentence starters:**
+- In the foreground, ...
+- At the back of the room, ...
+- On both sides of the room, ...
+- To the right, ...
+- Near the center, ...
+- Above the bed, ...
+
+**Mini-task:**  
+Put the following details in order from **front to back**:
+- the floor
+- the furniture
+- the bed
+- the woman
+- the lanterns
+
+{{< expand "Reminder" >}}
+A strong place description guides the reader through the scene instead of listing details randomly.
+{{< /expand >}}
+
+---
+
+### Practice 3: Choosing a Spatial Path
+
+**Goal:**  
+To shape details into a controlled descriptive movement.
+
+**Instructions:**  
+Choose one of the following ways to organize your description:
+
+| Option | Approach |
+|--------|----------|
+| **A. Front to back** | Begin with the open floor and move toward the bed |
+| **B. Left to right** | Begin with the left side of the room, move through the center, and end on the right |
+
+Then write a **5-sentence outline** using spatial transition signals.
+
+**Useful transition signals:**
+- in the foreground
+- beyond that
+- at the center
+- on the left
+- on the right
+- farther back
+- above
+- beneath
+
+{{< expand "Why this matters" >}}
+A place description becomes clearer when you choose a path through the scene and guide the reader’s eye step by step.
+{{< /expand >}}
+
+---
+
+### Practice 4: Building a Sensory Chart
+
+**Goal:**  
+To create atmosphere through sensory language rather than visual detail alone.
+
+**Instructions:**  
+Use the image and your imagination to complete the chart below. Think about what the room might sound like, smell like, or feel like.
+
+| Sense | Possible details in this room |
+|-------|-------------------------------|
+| **Sight** | |
+| **Sound** | |
+| **Smell** | |
+| **Touch / Temperature** | |
+
+**Sentence starters:**
+- The room glows with ...
+- The air seems ...
+- I imagine the faint sound of ...
+- The furniture looks as if it would feel ...
+- The room smells of ...
+
+**Rule:**  
+Do not write emotional words. Focus on **sensory details only**.
+
+{{< expand "Reminder" >}}
+Try not to stop with sight only. Strong atmosphere often comes from sound, smell, texture, and temperature as well.
+{{< /expand >}}
+
+---
+
+### Practice 5: Showing, Not Telling
+
+**Goal:**  
+To replace abstract judgments with concrete descriptive evidence.
+
+**Instructions:**  
+Rewrite each of the following sentences so that it **shows** the impression instead of naming it directly.
+
+1. The room feels oppressive.  
+2. The setting is beautiful.  
+3. The woman seems isolated.  
+4. The room feels formal and controlled.
+
+{{< expand "Reminder" >}}
+Instead of naming an emotion or effect directly, choose details that allow the reader to experience it.
+{{< /expand >}}
+
+---
+
+### Practice 6: Creating a Dominant Impression
+
+**Goal:**  
+To choose one controlling mood and select details that support it.
+
+**Instructions:**  
+Choose one dominant impression for the setting:
+
+- luxurious
+- suffocating
+- ritualized
+- lonely
+- watchful
+- enclosed
+- dreamlike
+
+Then complete the chart below.
+
+| Dominant Impression | Three visual details that support it | Two sensory details that support it |
+|---------------------|--------------------------------------|-------------------------------------|
+|                     |                                      |                                     |
+
+Then write one topic sentence for a paragraph describing the place from that angle.
+
+**Sentence starters:**
+- The room glows with a beauty that seems to ...
+- At first the setting appears ..., but ...
+- Everything in the room contributes to an impression of ...
+
+{{< expand "Reminder" >}}
+A good place description does not include every detail. It chooses details that build one clear impression.
+{{< /expand >}}
+
+---
+
+### Practice 7: Writing from an Observer’s Position
+
+**Goal:**  
+To establish a clear point of view in the description.
+
+**Instructions:**  
+Pretend you are facing the seated woman. Write **5 sentences** beginning with expressions like these:
+
+- From where I stand, ...
+- As I look into the room, ...
+- The first thing I notice is ...
+- Beyond the open floor, ...
+- What stays with me most is ...
+
+{{< expand "Reminder" >}}
+A stable observer position helps your paragraph feel coherent and controlled.
+{{< /expand >}}
+
+---
+
+### Practice 8: Sentence Combining for Flow
+
+**Goal:**  
+To turn note-like observations into smoother descriptive prose.
+
+**Instructions:**  
+Combine the following short sentences into **2–3 connected sentences**.
+
+- The floor is pale and wide.
+- The bed is at the back.
+- White curtains hang around it.
+- Red lanterns glow above it.
+- A woman sits there.
+- Dark wooden furniture stands on both sides.
+
+**Challenge:**  
+Use:
+- at least **two spatial transitions**
+- at least **one sensory detail**
+
+{{< expand "Reminder" >}}
+The goal is to turn separate observations into flowing description rather than a list of details.
+{{< /expand >}}
+
+---
+
+### Practice 9: Guided Paragraph Writing
+
+**Goal:**  
+To bring together observation, organization, sensory detail, and dominant impression in one paragraph.
+
+**Instructions:**  
+Write a paragraph of **150–200 words** describing the setting in the image.
+
+**Requirements:**  
+Your paragraph should:
+- begin from a clear observer position
+- follow a clear spatial pattern
+- include at least **three senses**
+- create one dominant impression
+- avoid background information about the movie
+- show rather than tell
+
+**Suggested structure:**
+
+| Part | Focus |
+|------|-------|
+| **Opening** | Establish the dominant impression |
+| **Middle** | Guide the reader through the room using spatial organization |
+| **Development** | Add sensory details to create atmosphere |
+| **Closing** | Reinforce the overall impression |
+
+**Optional paragraph starters:**
+- From where I stand, the room ...
+- The room opens ...
+- At first glance, the setting ...
+
+{{< expand "Reminder" >}}
+Use material from the earlier practices. You do not need to start from zero.
+{{< /expand >}}
+
+---
+
+### Practice 10: Revision Workshop
+
+**Goal:**  
+To improve coherence, atmosphere, and descriptive precision through revision.
+
+**Instructions:**  
+Exchange paragraphs with a partner. Read each other’s work and use the checklist below.
+
+**Peer Review Checklist:**
+- Can I clearly picture where things are?
+- Is there a clear starting point for the description?
+- Are there sensory details beyond sight?
+- Is there one dominant impression?
+- Does the paragraph show rather than tell?
+- Are any details random or unrelated?
+
+**Revision Task:**  
+Revise your paragraph in one of the following ways:
+- add two stronger sensory details
+- improve spatial transitions
+- sharpen the dominant impression
+- remove abstract explanation
+
+{{< expand "Reminder" >}}
+Strong description is usually built through revision.
+{{< /expand >}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -367,6 +692,12 @@ Test yourself on these questions. Write your answers on a separate sheet.
 6. **Choose a place you know well. List one sight detail, one sound detail, and one smell detail that contribute to its dominant impression.**
 
 7. **Why might a writer choose to include a place description in an essay about a person?**
+
+---
+
+
+
+
 
 ---
 

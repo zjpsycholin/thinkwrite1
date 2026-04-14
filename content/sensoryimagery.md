@@ -338,13 +338,13 @@ _________________________________
 | Figurative language idea (simile/metaphor) | |
 
 
-**what you need to submit**:
+**What you need to submit**:
 1. The table with sensory details
 2. First draft of the paragraph by yourself
 3. Second draft of the paragraph based on your interaction with AI tools
 4. One paragraph explaining the changes made from the first draft to the second draft in terms of use of sensory details and precise language, as well as what you have learned in this process
 
-
+**Due date**: 20:00 March 26th, 2026 
 
 
 

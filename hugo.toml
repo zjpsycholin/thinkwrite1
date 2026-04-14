@@ -111,6 +111,7 @@ copyright = "Zhang Jun"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
 # You can also silence the log if you like:
 ignoreLogs = ['warning-goldmark-raw-html']
 
