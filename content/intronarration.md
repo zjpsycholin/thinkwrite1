@@ -6,7 +6,11 @@ weight = 8
 +++
 
 
-# Week 8 Learning Notes: Introduction to Narration
+# Week 8 Introduction to Narration
+
+These notes are designed to help you prepare before class and review after class. Use them to check your understanding of key concepts.
+
+---
 
 ## Learning Outcomes
 
@@ -23,14 +27,32 @@ Use this checklist to track your progress.
 
 ---
 
-## Key Concepts
+## Topics to Be Covered
+
+### Session 1 (45 minutes)
+1. What is narrative writing?
+2. Narrative vs. summary: The difference between telling and story
+3. Fiction vs. nonfiction narrative
+4. Exercise: Identifying narrative passages
+
+### Session 2 (45 minutes)
+1. Experience-based meaning: Why we tell stories
+2. Key elements of narrative (character, setting, conflict, plot)
+3. Narrative exploration activity: Free-writing from memory
+4. Sharing and discussion
+
+---
+
+## Session 1: Foundations of Narrative
 
 ### 1. What Is Narrative Writing?
 
 **Definition:**
 Narrative writing tells a story. It presents a sequence of events involving characters in a specific setting, leading toward some kind of resolution or meaning.
 
-> **Key Insight:** Where description answers "What was it like?", narrative answers "What happened?" But more than that, narrative answers "What does what happened mean?" A story is not just a list of events. It is events arranged to create meaning.
+{{< expand "Key Insight" >}}
+Where description answers "What was it like?", narrative answers "What happened?" But more than that, narrative answers "What does what happened mean?" A story is not just a list of events. It is events arranged to create meaning.
+{{< /expand >}}
 
 **The Difference Between Description and Narration:**
 
@@ -42,6 +64,7 @@ Narrative writing tells a story. It presents a sequence of events involving char
 | **Questions** | What does it look/feel/sound like? | What happened? What changed? |
 
 **Transition from Description to Narration:**
+
 In Weeks 1-7, you learned to **describe** a person or place. Now you will learn to **narrate** an experience or event. The two skills work together: strong narration uses description to bring scenes to life.
 
 ---
@@ -56,7 +79,9 @@ A common confusion is between **summary** (telling what happened in brief) and *
 | "They argued for hours." | "His voice rose. She crossed her arms. Neither would look away." |
 | "She was nervous before the exam." | "Her pencil tapped a nervous rhythm. She checked her watch every thirty seconds. When the proctor said 'begin,' her hand shook as she opened the booklet." |
 
-> **Why Narrative Matters:** Summary tells readers the conclusion. Narrative lets readers experience the events and draw their own conclusions. Readers remember stories, not summaries. When you narrate, you invite readers into the moment.
+{{< expand "Why Narrative Matters" >}}
+Summary tells readers the conclusion. Narrative lets readers experience the events and draw their own conclusions. Readers remember stories, not summaries. When you narrate, you invite readers into the moment.
+{{< /expand >}}
 
 **Example from Literature: Summary vs. Narrative**
 
@@ -77,7 +102,9 @@ Narrative writing can be divided into two broad categories:
 | **Fiction** | Invented stories; characters, events, and settings are imagined by the writer | Novels, short stories, fairy tales, science fiction |
 | **Nonfiction** | True stories based on real events and people | Memoir, autobiography, personal essay, biography, journalism |
 
-> **The Blurred Line:** Some writing blurs the line. Creative nonfiction uses narrative techniques (dialogue, scene-building, sensory detail) to tell true stories. Personal essays are true but shaped by the writer's perspective. The key difference: in nonfiction, the writer promises the reader that the events actually happened.
+{{< expand "The Blurred Line" >}}
+Some writing blurs the line. Creative nonfiction uses narrative techniques (dialogue, scene-building, sensory detail) to tell true stories. Personal essays are true but shaped by the writer's perspective. The key difference: in nonfiction, the writer promises the reader that the events actually happened.
+{{< /expand >}}
 
 **Examples of Nonfiction Narrative:**
 
@@ -111,45 +138,27 @@ Narrative serves many purposes, but the most important is creating **meaning fro
 | **To preserve memory** | Stories keep people, places, and events alive |
 | **To entertain** | A good story is its own reward |
 
-**Example: Experience-Based Meaning**
+{{< expand "Example: To make sense of the past" >}}
+In *The Kite Runner* by Khaled Hosseini, the narrator, Amir, returns to Afghanistan to rescue his friend’s son. The story is not just a plot – it’s Amir’s way of understanding his childhood betrayal, his father’s expectations, and the political chaos that shaped his life. By telling the story, he makes sense of guilt, redemption, and how a single moment (watching his friend be assaulted) changed everything.
+{{< /expand >}}
 
-From Sandra Cisneros's *The House on Mango Street*:
+{{< expand "Example: To share lessons learned" >}}
+The fable “The Boy Who Cried Wolf” never says “Don’t lie.” Instead, it shows a boy who repeatedly tricks villagers into believing a wolf is attacking his sheep. When a real wolf appears, no one comes. The lesson – that lies destroy trust – is woven into the story, not stated as a moral.
+{{< /expand >}}
 
-> "The house on Mango Street is ours, and we don't have to pay rent to anybody, or share the yard with the people downstairs, or be careful not to make too much noise, and there isn't a landlord banging on the ceiling with a broom. But even so, it's not the house we'd thought we'd get."
+{{< expand "Example: To connect with others" >}}
+In the film *Coco*, a young boy named Miguel accidentally enters the Land of the Dead. Through the story of his great‑great‑grandfather, who was thought to have abandoned his family, audiences learn that the man was actually murdered and desperately wanted to return home. Viewers feel the pain of misunderstanding and the joy of reconciliation. The story connects people across generations and cultures, reminding us that family memories matter.
+{{< /expand >}}
 
-The narrator is not just describing a house. She is telling a story about hope, disappointment, and what "home" really means. The meaning comes from the experience, not from a stated lesson.
+{{< expand "Example: To preserve memory" >}}
+The oral histories of the Nanjing Massacre survivors, recorded by the Nanjing Memorial Hall, ensure that the events of 1937 are not forgotten. By telling their stories – of escape, loss, and survival – they preserve the memory of the victims and warn future generations. Without these narratives, history would fade into statistics.
+{{< /expand >}}
 
----
-
-### 5. Key Elements of Narrative
-
-Every story, whether fiction or nonfiction, contains certain essential elements.
-
-**The Five Key Elements:**
-
-| Element | Definition | Questions to Ask |
-|---------|------------|------------------|
-| **Character** | The person (or people) the story follows | Who is the protagonist? What do they want? |
-| **Setting** | Where and when the story takes place | What is the time and place? How does it affect the characters? |
-| **Conflict** | The problem or obstacle the character faces | What stands in the character's way? Internal or external? |
-| **Plot** | The sequence of events that shows how the conflict unfolds | What happens first, next, last? |
-| **Theme** | The underlying meaning or insight | What does the story say about life, people, or the world? |
-
-**Example: Elements in a Short Story**
-
-Consider a student's story about failing a driving test:
-
-- **Character:** A nervous 18-year-old who wants independence
-- **Setting:** A crowded DMV parking lot on a hot summer day
-- **Conflict:** She keeps making the same mistake (turning too wide)
-- **Plot:** The test begins confidently, then the mistake happens, then she tries to recover, then she fails and must face her parents
-- **Theme:** Sometimes failure teaches more than success
-
-Each element works together to create meaning.
+{{< expand "Example: To entertain" >}}
+J.K. Rowling’s *Harry Potter* series has no explicit moral or historical lesson. Readers follow Harry’s adventures at Hogwarts, solve mysteries, and defeat villains purely for the joy of the journey. The story’s purpose is to delight, surprise, and immerse – and millions of readers find that reward enough.
+{{< /expand >}}
 
 ---
-
-## Practice Exercises for Self-Study
 
 ### Exercise 1: Identifying Narrative vs. Summary
 
@@ -164,26 +173,7 @@ Each element works together to create meaning.
 
 ---
 
-### Exercise 2: Transforming Summary into Narrative
-
-**Instructions:** Each sentence below is a summary. Rewrite it as a short narrative (3-5 sentences) that shows what happened moment by moment.
-
-| Summary |
-|---------|
-| He was nervous before his speech. |
-| The argument ended badly. |
-| She felt relieved when the exam was over. |
-
-Write your narrative for one of them here:
-
-_________________________________
-_________________________________
-_________________________________
-_________________________________
-
----
-
-### Exercise 3: Fiction or Nonfiction?
+### Exercise 2: Fiction or Nonfiction?
 
 **Instructions:** Read each description. Decide if it is likely **fiction** or **nonfiction**. Explain your reasoning.
 
@@ -197,11 +187,115 @@ _________________________________
 
 ---
 
+## Session 2: Narrative Elements and Exploration
+
+### 1. Experience-Based Meaning: Why We Tell Stories
+
+The most powerful narratives are grounded in **real or believable experience**. Readers connect to stories that feel true, even if they are fiction.
+
+**What Makes a Story Feel True?**
+
+| Quality | Explanation |
+|---------|-------------|
+| **Specific details** | Generic stories feel fake; specific details feel real |
+| **Consistent character** | Characters act in believable ways |
+| **Cause and effect** | Events happen because of previous events, not randomly |
+| **Emotional honesty** | Characters feel real emotions, not exaggerated or fake |
+| **Meaning (not moral)** | The story suggests something about life without lecturing |
+
+---
+
+### 2. Key Elements of Narrative
+
+Every story, whether fiction or nonfiction, contains certain essential elements.
+
+**The Five Key Elements:**
+
+| Element | Definition | Questions to Ask |
+|---------|------------|------------------|
+| **Character** | The person (or people) the story follows | Who is the protagonist? What do they want? |
+| **Setting** | Where and when the story takes place | What is the time and place? How does it affect the characters? |
+| **Conflict** | The problem or obstacle the character faces | What stands in the character's way? Internal or external? |
+| **Plot** | The sequence of events that shows how the conflict unfolds | What happens first, next, last? |
+| **Theme** | The underlying meaning or insight | What does the story say about life, people, or the world? |
+
+{{< expand "Example: Elements in a Short Story" >}}
+Consider a student's story about failing a driving test:
+
+- **Character:** A nervous 18-year-old who wants independence
+- **Setting:** A crowded DMV parking lot on a hot summer day
+- **Conflict:** She keeps making the same mistake (turning too wide)
+- **Plot:** The test begins confidently, then the mistake happens, then she tries to recover, then she fails and must face her parents
+- **Theme:** Sometimes failure teaches more than success
+
+Each element works together to create meaning.
+{{< /expand >}}
+
+---
+
+### 3. Narrative Exploration Activity: Free-Writing from Memory
+
+This activity helps you discover a story worth telling.
+
+**Instructions:**
+
+1. **Close your eyes for one minute.** Think of a moment in your life that you remember clearly. It doesn't have to be dramatic or important—just a moment you can picture.
+
+2. **Open your eyes and write nonstop for 10 minutes.** Do not stop. Do not edit. Do not judge. Just write everything you remember about that moment:
+   - Where were you?
+   - Who was there?
+   - What happened first, next, last?
+   - What did you see, hear, smell, feel?
+   - What were you thinking?
+
+3. **When time is up, read what you wrote.** Circle any moment that feels alive—where you can see it, hear it, feel it.
+
+4. **Write a second draft of just that moment** (5 minutes). Add sensory details. Show what happened. Don't explain the meaning—let the story speak for itself.
+
+
+---
+
 ### Exercise 4: Identifying Narrative Elements
 
 **Instructions:** Read the passage below. Identify the character, setting, conflict, and plot elements.
 
-> The last time I saw my grandmother was a Sunday in March. She stood at the counter making dumplings, her hands white with flour. I sat on the stool that had been in her kitchen for forty years. She hummed along to the crackling radio. Then she stopped. She looked at me. "You're too thin," she said. But her voice was different—softer. I saw her hands tremble. She turned back to the dough. I wanted to say something, but the words didn't come. When I left, she hugged me longer than usual. I didn't understand why until three months later, when she was gone.
+[Gift of Margi](pdfs/giftofmargi.pdf)
+
+> Twenty dollars a week doesn't go far. Expenses had been greater than she had
+> calculated. They always are. Only $1.87 to buy a present for Jim. Her Jim.
+> Many a happy hour she had spent planning for something nice for him.
+> Something fine and rare — something worthy of the honor of being owned by Jim.
+>
+> Suddenly she whirled from the window and stood before the glass. Her eyes
+> were shining brilliantly, but her face had lost its color within twenty
+> seconds. Rapidly she pulled down her hair and let it fall to its full length.
+> It was long and silky. It rippled and shone like a cascade of brown waters.
+> It reached below her knee and made itself almost a garment for her.
+>
+> So now Della's beautiful hair fell about her, rippling and shining like a
+> cascade of brown waters. It reached below her knee. Then she put it up again,
+> hesitated for a minute, stood still while a tear or two splashed on the worn
+> red carpet.
+>
+> She put on her old brown jacket; she put on her old brown hat; with a whirl
+> of skirts and with the brilliant sparkle still in her eyes, she fluttered out
+> the door and down the stairs.
+>
+> The next two hours tripped by on rosy wings. She was ransacking the stores
+> for Jim's present. She found it at last. It surely had been made for Jim and
+> no one else. There was no other like it. And she had bought it with the
+> $21.70.
+>
+> When Della reached home her intoxication gave way a little to prudence. She
+> got out her curling irons and lighted the gas and went to work repairing the
+> ravages made by generosity added to love. Which is always a tremendous task,
+> dear friends—a mammoth task.
+>
+> Within forty minutes her head was covered with tiny, close-lying curls that
+> made her look wonderfully like a truant schoolboy. She looked at her
+> reflection in the mirror long, carefully, and critically.
+
+— O. Henry, "The Gift of the Magi" (condensed)
 
 | Element | Your Answer |
 |---------|-------------|
@@ -215,7 +309,9 @@ _________________________________
 
 ### Exercise 5: Narrative Exploration (In-Class Writing)
 
-**Instructions:** Take 10 minutes to write about a memory. Choose one prompt below or use your own.
+**Instructions (for students):**
+
+Take 10 minutes to write about a memory. Choose one prompt below or use your own.
 
 **Prompt options:**
 
@@ -231,7 +327,7 @@ _________________________________
 - Include at least three sensory details
 - Do not explain the meaning—just tell what happened
 
-Write your narrative here:
+Write your narrative here (use additional paper if needed):
 
 _________________________________
 _________________________________
@@ -242,10 +338,30 @@ _________________________________
 
 ---
 
-## Key Vocabulary
+### Sharing and Discussion Protocol
 
-| Term | Definition |
-|------|------------|
+After writing, share in small groups (3-4 people).
+
+**Each person takes 2 minutes to:**
+1. Read their narrative aloud
+2. Say one thing they liked about writing it
+
+**Listeners take 1 minute to:**
+1. Name one specific detail they remember from the story
+2. Say what emotion they felt while listening
+
+**Group discussion questions:**
+- Which story felt most vivid? Why?
+- What made you feel like you were there?
+- What element (character, setting, conflict) was strongest in each story?
+
+
+---
+
+## Summary: Week 8 Key Concepts
+
+| Concept | Key Idea |
+|---------|----------|
 | **Narrative** | A story that creates meaning from experience |
 | **Summary** | Tells what happened in condensed form |
 | **Narrative vs. Summary** | Narrative shows moment by moment; summary tells the outcome |
@@ -256,55 +372,6 @@ _________________________________
 | **Conflict** | The problem or obstacle |
 | **Plot** | The sequence of events |
 | **Theme** | The underlying meaning (shown, not stated) |
-
----
-
-## Homework Reminder
-
-**Task:** Write a one-paragraph narrative (150-250 words) about a specific moment from your own life.
-
-**Requirements:**
-
-| Element | Requirement |
-|---------|-------------|
-| Length | 150-250 words (approximately 5-10 sentences) |
-| Point of view | First person ("I") |
-| Focus | A single moment, not a whole day or week |
-| Showing | Use narrative techniques (action, dialogue, sensory details) |
-| Restriction | Do not state the meaning or lesson directly |
-| Elements | Include at least one character, a clear setting, and a hint of conflict |
-
-**Possible topics:**
-- A time you were lost
-- A conversation that changed your mind
-- A moment of embarrassment or pride
-- An unexpected encounter
-- The first time you tried something new
-
-**Structure suggestion:**
-- Opening sentence: Establish where and when
-- Middle sentences: Show what happened moment by moment
-- Closing sentence: End at a natural stopping point (not necessarily a resolution)
-
-**Submission:** Bring a printed copy to next class for peer review.
-
----
-
-## Quick Self-Test
-
-Test yourself on these questions. Write your answers on a separate sheet.
-
-1. **What is the difference between narrative and summary?**
-
-2. **What is the difference between fiction and nonfiction narrative?**
-
-3. **List the five key elements of narrative.**
-
-4. **Why do readers prefer narrative over summary?**
-
-5. **What does it mean to "show, not tell" in narrative writing?**
-
-6. **Give one example of a story that creates meaning from experience without stating the lesson.**
 
 ---
 
@@ -319,23 +386,4 @@ To prepare:
 
 ---
 
-## Summary Table
-
-| Concept | Key Idea | Your Example |
-|---------|----------|--------------|
-| **Narrative** | Story that creates meaning | |
-| **Summary** | Condensed telling of events | |
-| **Fiction** | Invented stories | |
-| **Nonfiction** | True stories | |
-| **Character** | Who the story follows | |
-| **Setting** | Where and when | |
-| **Conflict** | Problem or obstacle | |
-| **Plot** | Sequence of events | |
-| **Theme** | Underlying meaning | |
-
-Try adding your own examples in the third column as you practice.
-
----
-
 *Use these notes before class to prepare, and after class to review. Bring your narrative paragraph to our next session.*
-

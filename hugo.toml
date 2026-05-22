@@ -66,39 +66,45 @@ copyright = "Zhang Jun"
   weight = 10
 
 [[menu.main]]
+  name = "Memior Project"
+  url  = "/memoirproject/"
+  weight = 11
+
+
+[[menu.main]]
   name = "Story Elements"
   url  = "/storyelements/"
-  weight = 11
+  weight = 12
 
 [[menu.main]]
   name = "Plot Structure"
   url  = "/plot/"
-  weight = 12
+  weight = 13
 
 [[menu.main]]
   name = "Point of View & Voice"
   url  = "/pov/"
-  weight = 13
+  weight = 14
 
 [[menu.main]]
   name = "Scene vs Summary"
   url  = "/scene/"
-  weight = 14
+  weight = 15
 
 [[menu.main]]
   name = "Dialogue & Character"
   url  = "/dialogue/"
-  weight = 15
+  weight = 16
 
 [[menu.main]]
   name = "Tension & Emotional Impact"
   url  = "/tension/"
-  weight = 16
+  weight = 17
 
 [[menu.main]]
   name = "Personal Narrative vs Fiction"
   url  = "/personalnarrativefiction/"
-  weight = 17
+  weight = 18
 
 
 
